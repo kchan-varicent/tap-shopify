@@ -1,4 +1,6 @@
 # tap-shopify
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkchan-varicent%2Ftap-shopify.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkchan-varicent%2Ftap-shopify?ref=badge_shield)
+
 
 This is a [Singer](https://singer.io) tap that produces JSON-formatted data
 following the [Singer
@@ -59,3 +61,7 @@ This tap:
 ---
 
 Copyright &copy; 2019 Stitch
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkchan-varicent%2Ftap-shopify.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkchan-varicent%2Ftap-shopify?ref=badge_large)
